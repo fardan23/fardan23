@@ -7,7 +7,6 @@
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me @fardan111_ on Instagram
 - ❤️ My girlfriend : Kim Jisoo As Blackpink
-- 💫 My top 5 biases : Jisoo, Rora, Ruka, Asa and Ahyeon
 - 👾 My fav song: Dream by Babymonster
 
 ## Education:

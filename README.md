@@ -6,7 +6,6 @@
 - 🌱 I’m currently learning Android Studio
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me @fardan111_ on Instagram
-- ❤️ My girlfriend : Kim Jisoo As Blackpink
 - 👾 My fav song: Dream by Babymonster
 
 ## Education:

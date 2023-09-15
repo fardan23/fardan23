@@ -3,8 +3,8 @@
 - 👋 Hi, I’m @fardan23
 - ✍️ I’m currently studying at [SMK Bina Mandiri Multimedia](http://smkbm3.sch.id)
 - 👀 I’m interested in Information and Technology
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on Google Group
+- 🌱 I’m currently learning Android Studio
+- 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me @fardan111_ on Instagram
 - ❤️ My girlfriend : Kim Jisoo As Blackpink
 - 💫 My top 5 biases : Jisoo, Rora, Ruka, Asa and Ahyeon

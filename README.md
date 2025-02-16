@@ -1,7 +1,6 @@
 # Hi there, I'm Fardan - aka [Muhamad Fardan](https://instagram.com/fardan111_?igshid=ZDc4ODBmNjlmNQ==) 👋
 
-<img src="Profil.jpg" width="150" height="150" style="border-radius: 50%;">
-
+<img src="Profil.jpg" width="150" height="150" style="border-radius: 50%; object-fit: cover; border: 3px solid #000;">
 
 ## About me:
 - 👋 Hi, I’m [@fardan23](https://github.com/fardan23/)

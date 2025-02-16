@@ -5,7 +5,7 @@
 - 👀 I’m interested in Information and Technology
 - 🌱 I’m currently learning Android Studio
 - 💞️ I’m looking to collaborate on Github
-- 📫 How to reach me @muhamadfardan11(https://www.instagram.com/muhamadfardan11/) on Instagram
+- 📫 How to reach me [@muhamadfardan11](https://www.instagram.com/muhamadfardan11/) on Instagram
 - 👾 My fav song: Dream by Babymonster
 
 ## Education:

@@ -1,4 +1,8 @@
 # Hi there, I'm Fardan - aka [Muhamad Fardan](https://instagram.com/fardan111_?igshid=ZDc4ODBmNjlmNQ==) 👋
+
+<img src="https://www.instagram.com/p/Cxpr1U6pLju/" width="150" height="150" style="border-radius: 50%;">
+
+
 ## About me:
 - 👋 Hi, I’m [@fardan23](https://github.com/fardan23/)
 - ✍️ I’m currently studying at [SMK Bina Mandiri Multimedia](http://smkbm3.sch.id)

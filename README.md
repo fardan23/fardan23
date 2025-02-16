@@ -33,13 +33,6 @@
 
 ---
 
-## **🚀 Skills & Tools**  
-- 💻 **Programming:** `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Java`  
-- 🎨 **UI/UX & Design:** `Figma`, `Bootstrap`  
-- ⚙️ **Tools:** `Git`, `GitHub`, `VSCode`, `Laragon`  
-
----
-
 ## **📊 GitHub Stats**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&langs_count=6&theme=tokyonight)  
 

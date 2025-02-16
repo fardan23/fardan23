@@ -42,8 +42,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&langs_count=6&theme=tokyonight)  
 
 ---
-
-## **⏳ Coding Activity**  
-![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fardan23&theme=tokyonight)  
-
----

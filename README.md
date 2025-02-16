@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning Android Studio
 - 💞️ I’m looking to collaborate on Github
 - 📫 How to reach me [@muhamadfardan11](https://www.instagram.com/muhamadfardan11/) on Instagram
-- 👾 My fav song: Dream by Babymonster
+- 👾 My fav song: [DREAM](https://open.spotify.com/intl-id/track/580sy6eZ6j0LrjvayPKD0k) by [BABYMONSTER](https://www.youtube.com/channel/UCqwUnggBBct-AY2lAdI88jQ)
 
 ## Education:
 

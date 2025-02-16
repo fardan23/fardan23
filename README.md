@@ -2,13 +2,13 @@
 > _A passionate Web Developer who loves coding and learning new things._  
 
 ## **📌 About Me**  
-- 👨‍💻 I’m [@fardan23](https://github.com/fardan23/)  
-- 🎓 Currently studying at [SMK Bina Mandiri Multimedia](http://smkbm3.sch.id)  
-- 💡 Interested in **Information & Technology**  
-- 🔥 Learning **[Laravel](https://laravel.com/)** & improving backend skills  
-- 🤝 Open to collaboration on **GitHub projects**  
-- 📫 Reach me on **[Instagram](https://www.instagram.com/muhamadfardan11/)**  
-- 🎵 Favorite song: **[DREAM](https://open.spotify.com/intl-id/track/580sy6eZ6j0LrjvayPKD0k)** by **[BABYMONSTER](https://www.youtube.com/channel/UCqwUnggBBct-AY2lAdI88jQ)**  
+👨‍💻 I’m [@fardan23](https://github.com/fardan23/)  
+🎓 Currently studying at [SMK Bina Mandiri Multimedia](http://smkbm3.sch.id)  
+💡 Interested in **Information & Technology**  
+🔥 Learning **[Laravel](https://laravel.com/)** & improving backend skills  
+🤝 Open to collaboration on **GitHub projects**  
+📫 Reach me on **[Instagram](https://www.instagram.com/muhamadfardan11/)**  
+🎵 Favorite song: **[DREAM](https://open.spotify.com/intl-id/track/580sy6eZ6j0LrjvayPKD0k)** by **[BABYMONSTER](https://www.youtube.com/channel/UCqwUnggBBct-AY2lAdI88jQ)**  
 
 ---
 

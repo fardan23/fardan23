@@ -27,3 +27,14 @@ You can click the Preview link to take a look at your changes.
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
+
+## 📊 GitHub Stats
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&langs_count=6&theme=tokyonight)
+
+## ⏳ Coding Activity
+![Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=fardan23&theme=tokyonight)
+
+## 🚀 Skills
+- 💻 Programming: `HTML`, `CSS`, `JavaScript`, `PHP`, `MySQL`, `Java`
+- 🎨 UI/UX: Figma, Bootstrap
+- ⚙️ Tools: Git, GitHub, VSCode, Laragon

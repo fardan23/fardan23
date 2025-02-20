@@ -50,6 +50,28 @@ Still not sure in what to specialize though...
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&langs_count=6&theme=tokyonight)  
 
 ###
+<h2 align="left">Info</h2>
+
+<p align="center">
+    <a href="https://github.com/fardan23/fardan23">
+        <img src="https://github-profile-trophy.vercel.app/?username=fardan23&column=-1&theme=dracula" />
+    </a>
+    <a href="https://github.com/fardan23/fardan23">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=dracula" />
+    </a>
+    <a href="https://github.com/rayymhra/rayymhra">
+        <img src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&count_private=true&theme=dracula" />
+    </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fardan23&theme=dark" />
+    <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
+  </picture>
+</p>
+
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
+
+
+###
 
 <h2 align="left">Connect With Me</h2>
 <p align="left">

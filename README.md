@@ -12,13 +12,6 @@
 
 ---
 
-## **📚 Education**  
-#### 🎓 [SMK Bina Mandiri Multimedia](http://smkbm3.sch.id) | **Software Engineering** | `2022 - 2025`  
-#### 🏫 [SMP Sejahtera 2](https://sekolah.data.kemdikbud.go.id/index.php/chome/profil/50307b14-2cf5-e011-a55a-dd9b94355c60) | `2019 - 2022`  
-#### 🏫 [SDN Cibeureum](https://www.sdncibeureumcileungsi.sch.id/) | `2013 - 2019`  
-
----
-
 ###
 
 <h2 align="left">I code with</h2>

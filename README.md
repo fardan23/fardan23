@@ -59,7 +59,7 @@ Still not sure in what to specialize though...
     <a href="https://github.com/fardan23/fardan23">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=tokyonight" />
     </a>
-    <a href="https://github.com/rayymhra/rayymhra">
+    <a href="https://github.com/fardan23/fardan23">
         <img src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&count_private=true&theme=tokyonight" />
     </a>
   <picture>

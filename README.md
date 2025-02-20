@@ -19,9 +19,6 @@
 
 ---
 
-## **📊 GitHub Stats**  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&langs_count=6&theme=tokyonight)  
-
 ###
 
 <h2 align="left">I code with</h2>
@@ -48,6 +45,9 @@
 </div>
 
 Still not sure in what to specialize though...
+
+## **📊 GitHub Stats**  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&langs_count=6&theme=tokyonight)  
 
 ###
 

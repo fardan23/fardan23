@@ -54,21 +54,21 @@ Still not sure in what to specialize though...
 
 <p align="center">
     <a href="https://github.com/fardan23/fardan23">
-        <img src="https://github-profile-trophy.vercel.app/?username=fardan23&column=-1&theme=dracula" />
+        <img src="https://github-profile-trophy.vercel.app/?username=fardan23&column=-1&theme=tokyonight" />
     </a>
     <a href="https://github.com/fardan23/fardan23">
         <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&show_icons=true&count_private=true&include_all_commits=true&layout=compact&langs_count=8&theme=tokyonight" />
     </a>
     <a href="https://github.com/rayymhra/rayymhra">
-        <img src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&count_private=true&theme=dracula" />
+        <img src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&count_private=true&theme=tokyonight" />
     </a>
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fardan23&theme=dark" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=fardan23&theme=tokyonight" />
     <img src="https://streak-stats.demolab.com?user=DenverCoder1&theme=default" />
   </picture>
 </p>
 
-<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)](https://git.io/streak-stats) -->
+<!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=tokyonight)](https://git.io/streak-stats) -->
 
 
 ###

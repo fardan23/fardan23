@@ -22,41 +22,6 @@
 ## **📊 GitHub Stats**  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&langs_count=6&theme=tokyonight)  
 
----
-
-
-
-
-
-## Hi there 👋
-
-<!--
-**rayymhra/rayymhra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-###
-
-<p align="left">My name is Rayya Mahira and I'm a Software Engineer Student in SMK BINA MANDIRI MULTIMEDIA</p>
-
-###
-
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2023<br>📚 I'm currently learning PHP, Laravel, Godot Engine, Arduino<br>🎯 Goals: FullStack<br></p>
-
 ###
 
 <h2 align="left">I code with</h2>

@@ -33,8 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
 </div>
 
-Still not sure in what to specialize though...
-
 ## **📊 GitHub Stats**  
 <p>
     <a href="https://github.com/fardan23/fardan23">

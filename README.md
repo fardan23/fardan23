@@ -4,8 +4,8 @@ _A passionate Web Developer specializing in backend development._
 ## **📌 About Me**  
 👨‍💻 I’m **[@fardan23](https://github.com/fardan23/)**  
 🎓 Currently studying at **[SMK Bina Mandiri Multimedia](http://smkbm3.sch.id)**  
-💡 Passionate about **Software Development & Backend Engineering**  
-🚀 Currently exploring **[Laravel](https://laravel.com/)** & improving Java skills  
+💡 Passionate about **Software Development & Web Design**  
+🚀 Currently exploring **[Laravel](https://laravel.com/)** & improving web design skills  
 🤝 Open to collaborating on **web development projects**  
 📬 Reach me on **[Instagram](https://www.instagram.com/muhamadfardan11/)**  
 

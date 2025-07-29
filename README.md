@@ -3,8 +3,8 @@ _A passionate Web Developer with a focus on backend development._
 
 ## 📌 About Me  
 👨‍💻 I’m [@fardan23](https://github.com/fardan23), a web developer who loves building functional and aesthetic websites.  
-🎓 A proud graduate of [Bina Mandiri Multimedia Vocational High School](http://smkbm3.sch.id)  
-📚 Currently pursuing a degree at [Universitas Indraprasta PGRI](https://unindra.ac.id/)  
+🎓 A graduate of **Software Engineering** at [Bina Mandiri Multimedia Vocational High School](http://smkbm3.sch.id)  
+📚 Currently majoring in **Informatics Engineering** at [Universitas Indraprasta PGRI (UNINDRA)](https://unindra.ac.id/)  
 💡 Interested in **Web Development** and **UI/UX Design**  
 🚀 Actively learning [Laravel](https://laravel.com/) and sharpening my front-end skills  
 🤝 Open for collaboration on **web development projects**  

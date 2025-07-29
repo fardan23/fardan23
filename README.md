@@ -1,6 +1,9 @@
 ### 🔥 Hi there, I'm Fardan! 👋  
 _A passionate Web Developer with a focus on backend development._
 
+<img src="https://media1.tenor.com/m/F8tv1RB9NNEAAAAC/babymonster-asa-really-like-you.gif" width="300" />
+
+
 ## 📌 About Me  
 👨‍💻 I’m [@fardan23](https://github.com/fardan23), a web developer who loves building functional and aesthetic websites.  
 🎓 A graduate of **Software Engineering** at [Bina Mandiri Multimedia Vocational High School](http://smkbm3.sch.id)  

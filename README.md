@@ -1,7 +1,7 @@
 ### 🔥 Hi there, I'm Fardan! 👋  
 _A passionate Web Developer with a focus on backend development._
 
-<img src="https://tenor.com/id/view/boomerangfu-hotsauce-character-unlocked-gif-25013053" width="300" />
+<img src="https://media.tenor.com/IfKZqxEKq8UAAAAC/boomerangfu-hotsauce.gif" width="300" alt="BoomeRangFu Hot Sauce" />
 
 
 ## 📌 About Me  

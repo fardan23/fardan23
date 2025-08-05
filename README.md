@@ -3,12 +3,12 @@
   <img src="https://media.tenor.com/OHj6KUNe-ywAAAAi/cat-kitty.gif" width="50" />
 </h1>
 
-<img align="right" src="https://media1.tenor.com/m/g8zGJoWeBnEAAAAC/boomerangfu-hotsauce.gif" width="270" />
 
 [![Instagram Badge](https://img.shields.io/badge/-@muhamadfardan11-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/muhamadfardan11)
 [![Gmail Badge](https://img.shields.io/badge/-muhamadfardan011@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhamadfardan011@example.com)
 [![YouTube Badge](https://img.shields.io/badge/-FardanLab-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@fardanlab)
 
+<img align="right" src="https://media1.tenor.com/m/g8zGJoWeBnEAAAAC/boomerangfu-hotsauce.gif" width="270" />
 ---
 
 ### 🌱 Tentang Saya

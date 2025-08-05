@@ -1,29 +1,27 @@
-<h1 align="center">Hi, I'm Fardan! 👋</h1>
-<p align="center">
-  <em>Passionate Web Developer | Backend Enthusiast | Lifelong Learner</em>
-</p>
 
-<p align="center">
-  <img src="https://media1.tenor.com/m/g8zGJoWeBnEAAAAC/boomerangfu-hotsauce.gif" width="300" alt="Coding Animation" />
-</p>
+### 🔥 Hi, I’m **Fardan** — Welcome to My GitHub!
+
+_A passionate and dedicated **Web Developer**, with a strong focus on **Backend Development** and a growing love for clean UI._
+
+<img src="https://media1.tenor.com/m/g8zGJoWeBnEAAAAC/boomerangfu-hotsauce.gif" width="300" alt="Boiling Hot Sauce" />
 
 ---
 
-## 👨‍💻 About Me
+## 💼 About Me
 
-- 🎓 **Software Engineering Graduate** from [Bina Mandiri Multimedia Vocational High School](http://smkbm3.sch.id)  
-- 🎓 Currently pursuing **Informatics Engineering** at [Indraprasta PGRI University (UNINDRA)](https://unindra.ac.id/)
-- 💻 Focused on **Backend Development** with a strong interest in **UI/UX Design**
-- 🚀 Actively learning and building with **Laravel** while sharpening my frontend skills
-- 🤝 Open to collaboration on impactful web development projects
-- 🌱 Always eager to learn new technologies and best practices
-- 📬 Let's connect on [Instagram](https://www.instagram.com/)
+👋 I'm [@fardan23](https://github.com/fardan23), a developer who believes that **functionality** and **user experience** should walk hand in hand.  
+🎓 Graduated in **Software Engineering** from [SMK Bina Mandiri Multimedia](http://smkbm3.sch.id)  
+🎓 Currently pursuing a Bachelor's degree in **Informatics Engineering** at [UNINDRA](https://unindra.ac.id/)  
+💡 Keen interest in **Web Development**, **Backend Architecture**, and **UI/UX Design**  
+🛠 Currently focused on mastering **Laravel** and refining front-end skills  
+🤝 Open to collaborate on impactful and innovative **web projects**  
+📬 Let's connect on [Instagram](https://www.instagram.com/) or feel free to reach out!
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack I Work With
 
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
@@ -51,6 +49,7 @@
   <a href="https://github.com/fardan23">
     <img src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&count_private=true&theme=tokyonight" alt="Fardan's GitHub Stats" />
   </a>
+  <br />
   <a href="https://github.com/fardan23">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&langs_count=8&theme=tokyonight" alt="Top Languages" />
   </a>
@@ -58,9 +57,14 @@
 
 ---
 
-<p align="center">
-  <em>
-    "The best way to predict the future is to create it." <br>
-    <b>Let's build something amazing together!</b> 🚀
-  </em>
-</p>
+> _"The best way to predict the future is to create it."_  
+> — _Alan Kay_
+
+---
+
+🎯 Let’s build something great together!  
+📨 Reach out anytime — I’m always open to a good tech talk or collaboration.
+
+---
+
+Jika kamu ingin, saya juga bisa bantu bikin **versi dalam Bahasa Indonesia** agar tampilannya lebih lokal atau bilingual. Mau? 😊

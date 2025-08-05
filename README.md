@@ -8,9 +8,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-muhamadfardan011@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhamadfardan011@example.com)
 [![YouTube Badge](https://img.shields.io/badge/-FardanLab-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@fardanlab)
 
-<img align="right" src="https://media1.tenor.com/m/g8zGJoWeBnEAAAAC/boomerangfu-hotsauce.gif" width="270" />
+
 ---
 
+<img align="right" src="https://media1.tenor.com/m/g8zGJoWeBnEAAAAC/boomerangfu-hotsauce.gif" width="270" />
 ### 🌱 Tentang Saya
 
 Yo (｡•̀ᴗ-)✧ Saya seorang **Mahasiswa Informatika** yang suka ngulik web development, dari backend sampai tampilan depan.

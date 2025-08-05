@@ -12,7 +12,7 @@
 ---
 
 <img align="right" src="https://media1.tenor.com/m/g8zGJoWeBnEAAAAC/boomerangfu-hotsauce.gif" width="210" />
-### 🌱 Tentang Saya
+## 🌱 Tentang Saya
 
 Yo (｡•̀ᴗ-)✧ Saya seorang **Mahasiswa Informatika** yang suka ngulik web development, dari backend sampai tampilan depan.
 

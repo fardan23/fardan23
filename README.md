@@ -5,8 +5,8 @@
 
 
 [![Instagram Badge](https://img.shields.io/badge/-@muhamadfardan11-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/muhamadfardan11)
-[![Gmail Badge](https://img.shields.io/badge/-muhamadfardan011@example.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhamadfardan011@example.com)
-[![YouTube Badge](https://img.shields.io/badge/-FardanLab-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@fardanlab)
+[![Gmail Badge](https://img.shields.io/badge/-muhamadfardan011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhamadfardan011@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/-FardanLabs-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@fardanlabs)
 
 
 ---
@@ -52,7 +52,7 @@ Yo (｡•̀ᴗ-)✧ Saya seorang **Mahasiswa Informatika** yang suka ngulik web
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>

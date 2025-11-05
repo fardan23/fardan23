@@ -13,7 +13,7 @@ Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam
 
 📍 **Universitas Indraprasta PGRI – Teknik Informatika**  
 💡 Minat utama: Rekayasa Perangkat Lunak  
-🧠 Sedang mempelajari: Laravel dan Algoritma Pemrograman 
+🧠 Sedang mempelajari: Laravel dan Algoritma Pemrograman  
 🤝 Terbuka untuk kolaborasi proyek akademik maupun open-source  
 
 ---

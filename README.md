@@ -1,7 +1,7 @@
 <!-- 💼 Formal Dark GitHub Profile - by Fardan -->
 
 <p align="center">
-  <img src="https://tenor.com/id/view/cool-fox-mask-japan-gorgeous-gif-16158268173820755244" width="200" alt="WE GO UP_Asa" />
+  <img src="https://media.tenor.com/xxxxxxxAAAAC/cool-fox-mask-japan-gorgeous.gif" width="200" alt="WE GO UP_Asa" />
 </p>
 
 <h1 align="center">Muhamad Fardan</h1>

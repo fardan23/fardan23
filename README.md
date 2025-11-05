@@ -1,8 +1,6 @@
 ## 👋 Tentang Saya
 
-Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mendalam pada pengembangan perangkat lunak dan perancangan sistem informasi.
-Fokus saya adalah menciptakan solusi digital yang efisien, aman, serta memberikan pengalaman pengguna yang optimal.
-Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam pengembangan aplikasi.
+Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mendalam pada pengembangan perangkat lunak dan perancangan sistem informasi. Fokus saya adalah menciptakan solusi digital yang efisien, aman, serta memberikan pengalaman pengguna yang optimal. Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam pengembangan aplikasi.
 
 📍 **Universitas Indraprasta PGRI – Teknik Informatika**  
 💡 Minat utama: Rekayasa Perangkat Lunak  
@@ -37,7 +35,7 @@ Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam
 
 ## 📊 Statistik GitHub
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&theme=github_dark&hide_border=true" height="160"/>
 </p>

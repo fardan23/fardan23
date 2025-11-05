@@ -1,5 +1,3 @@
----
-
 ## 👋 Tentang Saya
 
 Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mendalam pada pengembangan perangkat lunak dan perancangan sistem informasi.

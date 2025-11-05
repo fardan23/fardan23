@@ -3,6 +3,7 @@
 <p align="center">
   <img src="https://media.tenor.com/xxxxxxxAAAAC/cool-fox-mask-japan-gorgeous.gif" width="200" alt="WE GO UP_Asa" />
 </p>
+ <img src="https://media.tenor.com/OHj6KUNe-ywAAAAi/cat-kitty.gif" width="50" alt="Cat waving" />
 
 <h1 align="center">Muhamad Fardan</h1>
 <h3 align="center">Informatics Student | Developer | Tech Enthusiast</h3>

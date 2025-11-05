@@ -46,7 +46,7 @@ Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mend
 
 ## 🌐 Media Sosial
 
-<p align="center">
+<p align="left">
   <a href="https://instagram.com/muhamadfardan11">
     <img src="https://img.shields.io/badge/Instagram-@muhamadfardan11-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
@@ -60,8 +60,8 @@ Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mend
 
 ---
 
-<div align="center">
-  <p align="center"> <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Cool Fox" /> </p>
+<div align="left">
+  <p> <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Asa" /> </p>
   <h4><em>“Teknologi adalah seni menciptakan solusi dari logika.”</em></h4>
 </div>
 

@@ -61,7 +61,7 @@ Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mend
 
 <div align="left">
   <p> <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Asa" /> </p>
-  <p> <img src="https://tenor.com/id/view/so-cool-cool-foot-work-street-boxing-kick-boxing-gif-10725386773230016320" width="200" height="197" alt="Chiquita" /> </p>
+  <p> <img src="https://media1.tenor.com/m/lNg6cdkMV0AAAAAC/so-cool-cool.gif" width="200" height="197" alt="Chiquita" /> </p>
   
   <h4>
     <em>“Let bygones be bygones, I ain’t never had no problems.” — <strong>Asa & Chiquita</strong><br>

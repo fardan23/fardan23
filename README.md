@@ -1,4 +1,4 @@
-<img width="200" height="197" alt="image" src="https://github.com/user-attachments/assets/db1aab92-39d6-45c3-a45d-806cd1401fa0" /><h1 align="left">
+<img width="200" height="197" alt="image" src="" /><h1 align="left">
   Hello, I'm <strong>Fardan</strong> 👋  
   <img src="https://media.tenor.com/OHj6KUNe-ywAAAAi/cat-kitty.gif" width="50" />
 </h1>

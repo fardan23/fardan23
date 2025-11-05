@@ -1,4 +1,4 @@
-<h1 align="left">
+<img width="200" height="197" alt="image" src="https://github.com/user-attachments/assets/db1aab92-39d6-45c3-a45d-806cd1401fa0" /><h1 align="left">
   Hello, I'm <strong>Fardan</strong> 👋  
   <img src="https://media.tenor.com/OHj6KUNe-ywAAAAi/cat-kitty.gif" width="50" />
 </h1>
@@ -43,7 +43,7 @@ Yo (｡•̀ᴗ-)✧ Saya seorang **Mahasiswa Informatika** yang suka ngulik web
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
   <img width="12" />
-  <img src="https://www.freepascal.org/pic/logo.gif" height="40" alt="Pascal" />
+  <img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.9.0/1738545183646/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="Pascal" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
   <img width="12" />

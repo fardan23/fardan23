@@ -11,13 +11,13 @@
 
 ## 👋 Tentang Saya
 
-Saya adalah seorang **Mahasiswa Teknik Informatika** yang memiliki minat besar di bidang **pengembangan perangkat lunak dan desain sistem**.  
-Fokus utama saya adalah membangun aplikasi yang efisien, aman, dan memiliki pengalaman pengguna yang baik.  
-Saya terbiasa bekerja dengan beberapa bahasa pemrograman dan framework modern.
+Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mendalam pada pengembangan perangkat lunak dan perancangan sistem informasi.
+Fokus saya adalah menciptakan solusi digital yang efisien, aman, serta memberikan pengalaman pengguna yang optimal.
+Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam pengembangan aplikasi.
 
 📍 **Universitas Indraprasta PGRI – Teknik Informatika**  
-💡 Minat utama: *Software Engineering, Web Development, dan Database Design*  
-🧠 Sedang mempelajari: *Laravel, MySQL, dan Algoritma Pemrograman*  
+💡 Minat utama: *Rekayasa Perangkat Lunak*  
+🧠 Sedang mempelajari: *Laravel dan Algoritma Pemrograman*  
 🤝 Terbuka untuk kolaborasi proyek akademik maupun open-source  
 
 ---

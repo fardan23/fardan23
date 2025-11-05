@@ -1,83 +1,88 @@
-<div align="center" style="display: flex; flex-direction: column; align-items: center;">
+<!-- 💼 Formal Dark GitHub Profile - by Fardan -->
 
-  <!-- Gambar di atas (muncul dulu di layar kecil) -->
-  <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="180" alt="Cool Fox" style="max-width: 100%; height: auto;" />
+<p align="center">
+  <img src="https://media1.tenor.com/m/Y8r5g2t6y3EAAAAC/night-city.gif" width="200" alt="Dark city night" />
+</p>
 
-  <div style="text-align: left; max-width: 800px; margin: auto;">
-    <h1>
-      Hello, I'm <strong>Fardan</strong> 👋  
-      <img src="https://media.tenor.com/OHj6KUNe-ywAAAAi/cat-kitty.gif" width="40" alt="Cat waving" />
-    </h1>
+<h1 align="center">Muhamad Fardan</h1>
+<h3 align="center">Informatics Student | Developer | Tech Enthusiast</h3>
 
-   <p>
-      <a href="https://instagram.com/muhamad">
-        <img src="https://img.shields.io/badge/Instagram-%40muhamad-purple?style=for-the-badge&logo=instagram&logoColor=white" />
-      </a>
-      <a href="mailto:muhama@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-muhama%40gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
-      </a>
-      <a href="https://youtube.com/@fardanlabs">
-        <img src="https://img.shields.io/badge/YouTube-FardanLabs-red?style=for-the-badge&logo=youtube&logoColor=white" />
-      </a>
-    </p>
+---
 
-    ---
+## 👋 Tentang Saya
 
-  <h2>🌱 Tentang Saya</h2>
-  <img align="right" src="https://media1.tenor.com/m/g8zGJoWeBnEAAAAC/boomerangfu-hotsauce.gif" width="180" alt="Boomb Sauce" style="max-width: 100%; height: auto; margin-left: 10px;" />
+Saya adalah seorang **Mahasiswa Teknik Informatika** yang memiliki minat besar di bidang **pengembangan perangkat lunak dan desain sistem**.  
+Fokus utama saya adalah membangun aplikasi yang efisien, aman, dan memiliki pengalaman pengguna yang baik.  
+Saya terbiasa bekerja dengan beberapa bahasa pemrograman dan framework modern.
 
-  <p>
-    Saya <strong>Fardan</strong>, mahasiswa <strong>Teknik Informatika</strong> yang suka eksplor dunia web development dari backend sampai frontend.
-  </p>
+📍 **Universitas Indraprasta PGRI – Teknik Informatika**  
+💡 Minat utama: *Software Engineering, Web Development, dan Database Design*  
+🧠 Sedang mempelajari: *Laravel, MySQL, dan Algoritma Pemrograman*  
+🤝 Terbuka untuk kolaborasi proyek akademik maupun open-source  
 
-  <blockquote>“Belajar itu bukan soal cepat-cepatan, tapi tentang konsistensi yang bikin kita berkembang.”</blockquote>
+---
 
-  🎓 UNINDRA — Teknik Informatika  
-  🛠 Fokus di <strong>Laravel</strong>, <strong>PHP</strong>, <strong>MySQL</strong>, dan <strong>UI Design</strong>  
-  🤝 Suka kolaborasi di project edukatif dan open-source  
+## ⚙️ Bahasa & Teknologi
 
-  ---
-
-  <h2>⚙️ Tools & Languages</h2>
-
-  <div style="display: flex; flex-wrap: wrap; gap: 10px; justify-content: flex-start;">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="Bootstrap" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java" />
-    <img src="https://www.freepascal.org/pic/logo.gif" height="40" alt="Pascal" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git" />
-  </div>
-
-  ---
-
-  <h2>📊 GitHub Stats</h2>
-
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" height="160" />
-  </p>
-
-  ---
-
-  <h2>✨ Let's Connect</h2>
-
-  <p>
-    Punya ide atau project seru? Yuk ngobrol atau kolaborasi bareng!  
-  </p>
-
-  <a href="https://www.linkedin.com/in/fardan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Fardan-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-
-  ---
-
-  <div align="center" style="margin-top: 20px;">
-    <img src="https://media.tenor.com/XM0JwD0r5bUAAAAC/anime-sip.gif" width="130" />
-    <h4>✨ Keep learning, keep building ✨</h4>
-  </div>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="Laravel"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
+  <img width="12"/>
+  <img src="https://www.freepascal.org/pic/logo.gif" height="40" alt="Pascal"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
+  <img width="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
 </div>
+
+---
+
+## 📊 Statistik GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+> Grafik di atas menunjukkan kontribusi dan bahasa pemrograman yang paling sering digunakan oleh saya secara otomatis berdasarkan data publik di GitHub.
+
+---
+
+## 🌐 Kontak
+
+<p align="center">
+  <a href="mailto:muhama@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-muhama@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/muhamad">
+    <img src="https://img.shields.io/badge/Instagram-@muhamad-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@fardanlabs">
+    <img src="https://img.shields.io/badge/Youtube-FardanLabs-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/fardan">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <img src="https://media.tenor.com/8xP_KCXVd1oAAAAC/code-coding.gif" width="180"/>
+  <h4><em>“Teknologi adalah seni menciptakan solusi dari logika.”</em></h4>
+</div>
+
+---
+
+<p align="center">
+  <sub>© 2025 Muhamad Fardan • Dibuat dengan dedikasi dan semangat belajar</sub>
+</p>

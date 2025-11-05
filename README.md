@@ -63,7 +63,11 @@ Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mend
 
 <div align="left">
   <p> <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Asa" /> </p>
-  <h4><em>“Teknologi adalah seni menciptakan solusi dari logika.”</em></h4>
+  <h4>
+    <em>“Let bygones be bygones, I ain’t never had no problems.”<br>
+    “Di dunia teknologi, error itu biasa — cuma proses buat jadi lebih baik.”</em>
+  </h4>
+
 </div>
 
 ---

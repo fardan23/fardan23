@@ -1,13 +1,23 @@
-<img width="200" height="197" alt="image" src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" /><h1 align="left">
+<p align="center">
+  <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Cool Fox" />
+</p>
+
+<h1 align="center">
   Hello, I'm <strong>Fardan</strong> 👋  
-  <img src="https://media.tenor.com/OHj6KUNe-ywAAAAi/cat-kitty.gif" width="50" />
+  <img src="https://media.tenor.com/OHj6KUNe-ywAAAAi/cat-kitty.gif" width="50" alt="Cat waving" />
 </h1>
 
-
-[![Instagram Badge](https://img.shields.io/badge/-@muhamadfardan11-purple?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/muhamadfardan11)
-[![Gmail Badge](https://img.shields.io/badge/-muhamadfardan011@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white)](mailto:muhamadfardan011@gmail.com)
-[![YouTube Badge](https://img.shields.io/badge/-FardanLabs-red?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@fardanlabs)
-
+<p align="center">
+  <a href="https://instagram.com/muhamad">
+    <img src="https://img.shields.io/badge/-@muhamad-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:muhama@gmail.com">
+    <img src="https://img.shields.io/badge/-muhama@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@fardanlabs">
+    <img src="https://img.shields.io/badge/-FardanLabs-red?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
 ---
 

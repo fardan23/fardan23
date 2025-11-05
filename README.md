@@ -1,7 +1,7 @@
 <!-- 💼 Formal Dark GitHub Profile - by Fardan -->
 
 <p align="center">
-  <img src="https://media1.tenor.com/m/Y8r5g2t6y3EAAAAC/night-city.gif" width="200" alt="Dark city night" />
+  <img src="https://tenor.com/id/view/cool-fox-mask-japan-gorgeous-gif-16158268173820755244" width="200" alt="WE GO UP_Asa" />
 </p>
 
 <h1 align="center">Muhamad Fardan</h1>
@@ -16,8 +16,8 @@ Fokus saya adalah menciptakan solusi digital yang efisien, aman, serta memberika
 Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam pengembangan aplikasi.
 
 📍 **Universitas Indraprasta PGRI – Teknik Informatika**  
-💡 Minat utama: *Rekayasa Perangkat Lunak*  
-🧠 Sedang mempelajari: *Laravel dan Algoritma Pemrograman*  
+💡 Minat utama: Rekayasa Perangkat Lunak  
+🧠 Sedang mempelajari: Laravel dan Algoritma Pemrograman 
 🤝 Terbuka untuk kolaborasi proyek akademik maupun open-source  
 
 ---

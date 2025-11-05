@@ -73,7 +73,7 @@ Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/8xP_KCXVd1oAAAAC/code-coding.gif" width="180"/>
+  <p align="center"> <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Cool Fox" /> </p>
   <h4><em>“Teknologi adalah seni menciptakan solusi dari logika.”</em></h4>
 </div>
 

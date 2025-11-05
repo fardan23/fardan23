@@ -44,12 +44,9 @@ Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mend
 
 ---
 
-## 🌐 Kontak
+## 🌐 Media Sosial
 
 <p align="center">
-  <a href="mailto:muhamadfardan011@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-muhamadfardan011@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
   <a href="https://instagram.com/muhamadfardan11">
     <img src="https://img.shields.io/badge/Instagram-@muhamadfardan11-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>

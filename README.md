@@ -1,4 +1,4 @@
-<img width="200" height="197" alt="image" src="" /><h1 align="left">
+<img width="200" height="197" alt="image" src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" /><h1 align="left">
   Hello, I'm <strong>Fardan</strong> 👋  
   <img src="https://media.tenor.com/OHj6KUNe-ywAAAAi/cat-kitty.gif" width="50" />
 </h1>

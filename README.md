@@ -33,7 +33,7 @@ Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/>
   <img width="12"/>
-  <img src="https://www.freepascal.org/pic/logo.gif" height="40" alt="Pascal"/>
+  <img src="https://alefragnani.gallerycdn.vsassets.io/extensions/alefragnani/pascal/9.9.0/1738545183646/Microsoft.VisualStudio.Services.Icons.Default" height="40" alt="Pascal"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
   <img width="12"/>
@@ -56,16 +56,16 @@ Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam
 ## 🌐 Kontak
 
 <p align="center">
-  <a href="mailto:muhama@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-muhama@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:muhamadfardan011@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-muhamadfardan011@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://instagram.com/muhamad">
-    <img src="https://img.shields.io/badge/Instagram-@muhamad-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
+  <a href="https://instagram.com/muhamadfardan11">
+    <img src="https://img.shields.io/badge/Instagram-@muhamadfardan11-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="https://youtube.com/@fardanlabs">
     <img src="https://img.shields.io/badge/Youtube-FardanLabs-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/fardan">
+  <a href="https://www.linkedin.com/in/muhamad-fardan">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
@@ -80,5 +80,5 @@ Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam
 ---
 
 <p align="center">
-  <sub>© 2025 Muhamad Fardan • Dibuat dengan dedikasi dan semangat belajar</sub>
+  <sub>© 2025 Muhamad Fardan</sub>
 </p>

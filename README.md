@@ -1,8 +1,3 @@
-<p align="center"> <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Cool Fox" /> </p>
-
-<h1 align="center">Muhamad Fardan</h1>
-<h3 align="center">Informatics Student | Developer | Tech Enthusiast</h3>
-
 ---
 
 ## 👋 Tentang Saya

@@ -1,5 +1,10 @@
 ## 👋 Tentang Saya
-
+ <h4>
+    <em>“Let bygones be bygones, I ain’t never had no problems.”</em>
+  </h4>
+  <p> 
+    <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Asa" /> 
+  </p>
 Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mendalam pada pengembangan perangkat lunak dan perancangan sistem informasi. Fokus saya adalah menciptakan solusi digital yang efisien, aman, serta memberikan pengalaman pengguna yang optimal. Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam pengembangan aplikasi.
 
 📍 **Universitas Indraprasta PGRI – Teknik Informatika**  
@@ -80,12 +85,10 @@ Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mend
 <div align="center">
  
   <h4>
-    <em>“Let bygones be bygones, I ain’t never had no problems.” — <strong>Asa & Chiquita</strong><br>
-    “Error itu biasa, cuma proses buat jadi lebih baik.”</em>
+    <em>“Let bygones be bygones, I ain’t never had no problems.”</em>
   </h4>
   <p> 
     <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Asa" /> 
-    <img src="https://media1.tenor.com/m/lNg6cdkMV0AAAAAC/so-cool-cool.gif" width="200" height="197" alt="Chiquita" />
   </p>
   
 </div>

@@ -2,11 +2,11 @@
 <p> 
   <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Asa" /> 
 </p>
-Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mendalam pada pengembangan perangkat lunak dan perancangan sistem informasi. Fokus saya adalah menciptakan solusi digital yang efisien, aman, serta memberikan pengalaman pengguna yang optimal. Saya terbiasa menggunakan berbagai bahasa pemrograman dan framework modern dalam pengembangan aplikasi.
+Saya merupakan mahasiswa Teknik Informatika dengan minat utama pada pengembangan backend dan aplikasi desktop. Saya berfokus membangun sistem yang terstruktur, aman, dan efisien, serta memiliki ketertarikan pada pengelolaan logika aplikasi dan integrasi data. Dalam pengembangan, saya terbiasa menggunakan Laravel dan teknologi pendukung lainnya untuk menghasilkan aplikasi yang stabil dan mudah dikembangkan.
 
 📍 **Universitas Indraprasta PGRI – Teknik Informatika**  
 💡 Minat utama: Rekayasa Perangkat Lunak  
-🧠 Sedang mempelajari: Laravel dan Algoritma Pemrograman  
+🧠 Sedang mempelajari: Laravel, Algoritma dan Pemrograman  
 🤝 Terbuka untuk kolaborasi proyek akademik maupun open-source  
 
 ---

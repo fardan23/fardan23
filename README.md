@@ -35,15 +35,21 @@ Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mend
 
 ## 📊 Statistik GitHub
 
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardan23&theme=nightowl"
-/>
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fardan23&theme=nightowl"
-/>
-<img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fardan23&theme=nightowl"
-/>
+<p align="left">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardan23&theme=nightowl"
+    height="150"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fardan23&theme=nightowl"
+    height="150"
+  />
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fardan23&theme=nightowl"
+    height="150"
+  />
+</p>
+
 
 
 

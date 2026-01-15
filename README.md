@@ -36,9 +36,16 @@ Saya adalah seorang Mahasiswa Teknik Informatika yang memiliki ketertarikan mend
 ## 📊 Statistik GitHub
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=fardan23&show_icons=true&theme=dark" 
+    height="160"
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=fardan23&layout=compact&theme=dark" 
+    height="160"
+  />
 </p>
+
 
 ---
 

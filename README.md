@@ -2,12 +2,11 @@
 <p> 
   <img src="https://media1.tenor.com/m/4D2zSz4V_SwAAAAC/cool-fox.gif" width="200" height="197" alt="Asa" /> 
 </p>
-Saya merupakan mahasiswa Teknik Informatika dengan minat utama pada pengembangan backend dan aplikasi desktop. Saya berfokus membangun sistem yang terstruktur, aman, dan efisien, serta memiliki ketertarikan pada pengelolaan logika aplikasi dan integrasi data. Dalam pengembangan, saya terbiasa menggunakan Laravel dan teknologi pendukung lainnya untuk menghasilkan aplikasi yang stabil dan mudah dikembangkan.
 
 📍 **Universitas Indraprasta PGRI – Teknik Informatika**  
-💡 Minat utama: Rekayasa Perangkat Lunak  
-🧠 Sedang mempelajari: Laravel, Algoritma dan Pemrograman  
-🤝 Terbuka untuk kolaborasi proyek akademik maupun open-source  
+💡 Minat utama: Website, Desktop 
+🧠 Sedang mempelajari: Laravel
+🤝 Terbuka untuk kolaborasi proyek akademik maupun open-source
 
 ---
 
@@ -70,9 +69,6 @@ Saya merupakan mahasiswa Teknik Informatika dengan minat utama pada pengembangan
   </a>
   <a href="https://instagram.com/muhamadfardan11">
     <img src="https://img.shields.io/badge/Instagram-@muhamadfardan11-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-  <a href="https://youtube.com/@fardanlabs">
-    <img src="https://img.shields.io/badge/Youtube-FardanLabs-red?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
   
 </p>

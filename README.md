@@ -11,7 +11,7 @@
         <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fardan23&theme=algolia" width="31%" align="center" title="🦉 Night owl"/> </br></br>
       </a>
 
-<a href="https://github.com/walidbosso"> </br></br>
+<a href="https://github.com/fardan23"> </br></br>
   </a> 
   [![Walid's github streak](https://github-readme-streak-stats.herokuapp.com/?user=fardan23&theme=algolia&card_width=1000)](https://github.com/fardan23) 
 </br>

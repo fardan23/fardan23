@@ -1,7 +1,7 @@
 <!-- More Stats -->
 <p align="center">
   <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardan23&theme=algolia" 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardan23&theme=algolia&name=Muhamad%20Fardan" 
     width="100%"
   />
 </p>

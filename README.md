@@ -1,38 +1,36 @@
 <!-- More Stats -->
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardan23&theme=algolia" 
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardan23&theme=algolia"
     width="100%"
   />
 </p>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="33.33%" align="center">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fardan23&theme=algolia" 
-        width="100%"
-      />
-    </td>
-    <td width="33.33%" align="center">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fardan23&theme=algolia" 
-        width="100%"
-      />
-    </td>
-    <td width="33.33%" align="center">
-      <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fardan23&theme=algolia" 
-        width="100%"
-        title="🦉 Night owl"
-      />
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fardan23&theme=algolia"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fardan23&theme=algolia"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fardan23&theme=algolia"
+    width="100%"
+    title="🦉 Night owl"
+  />
+</p>
 
 <p align="left">
   <a href="https://instagram.com/muhamadfardan11">
-    <img 
+    <img
       src="https://img.shields.io/badge/Instagram-@muhamadfardan11-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white"
     />
   </a>

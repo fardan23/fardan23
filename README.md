@@ -35,8 +35,9 @@
 </p>
 
 ## Forkers
+
 <div align="center" >
-[![Forkers repo roster for @fardan23/fardan23](http://reporoster.com/forks/dark/fardan23/fardan23)](https://github.com/fardan23/fardan23/network/members)
+  [![Forkers repo roster for @fardan23/fardan23](http://reporoster.com/forks/dark/fardan23/fardan23)](https://github.com/fardan23/fardan23/network/members)
 </div>
 
 <p align="left">

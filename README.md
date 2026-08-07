@@ -1,7 +1,7 @@
 <!--More Stats-->
 <p align="center">
   <div align="center">
-    <a href="https://github.com/fardan23"> 
+    <a href="https://github.com/fardan"> 
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fardan23&theme=algolia" width="100%" /> </br></br>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fardan23&theme=algolia" width="31%" align="left"/>
       <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fardan23&theme=algolia" width="31%" align="right" />

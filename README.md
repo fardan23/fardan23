@@ -29,35 +29,18 @@
 </div>
 
 
- <div align="center">
+<div align="center">
 </p >
-
 </details>
-
-<!--SNAKE-->
-
-
-<p align="center">
- 
-<a href="https://github.com/fardan23">
-   <img alt="github-snake" src="https://raw.githubusercontent.com/fardan23/fardan23/output/github-snake-darkBlue.svg" title="🐍 Watch how the snake's eating my contributions" />
-</a>
-
-
 </p>
 
 ## Forkers
-
 <div align="center" >
-
 [![Forkers repo roster for @fardan23/fardan23](http://reporoster.com/forks/dark/fardan23/fardan23)](https://github.com/fardan23/fardan23/network/members)
-
 </div>
-
 
 <p align="left">
   <a href="https://instagram.com/muhamadfardan11">
     <img src="https://img.shields.io/badge/Instagram-@muhamadfardan11-8a3ab9?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  
 </p>

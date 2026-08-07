@@ -13,6 +13,7 @@
       [![Fardan's github streak](https://github-readme-streak-stats.herokuapp.com/?user=fardan23&theme=algolia&card_width=1000)](https://github.com/fardan23) </br>
       <a href="https://github.com/fardan23">
         [![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=fardan23&theme=react-dark&hide_border=true&area=true&bg_color=01102d&color=6eb9f2&line=41c350&point=ffffff)](https://github.com/fardan23) </br>
+      </a>
     </div>
   </p>
 </details>

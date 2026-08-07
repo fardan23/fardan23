@@ -2,11 +2,12 @@
 <details open align="center">
   <summary>📈 More Stats</summary>
   <br>
- <!--
-<p align="center">
-<a href="https://github.com/fardan23"> 
-<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffardan23%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
-</a></p> -->
+  
+  <p align="center">
+    <a href="https://github.com/fardan23"> 
+      <img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Ffardan23%2Fhit-counter&count_bg=%236EB9F2&title_bg=%2301102D&icon=workplace.svg&icon_color=%2341C350&title=Profile+Views+(since+03/2024)&edge_flat=true" width="">    
+    </a>
+  </p>
 
 <p align="center">
 <div align="center">
@@ -34,11 +35,6 @@
 </details>
 </p>
 
-## Forkers
-
-<div align="center" >
-  [![Forkers repo roster for @fardan23/fardan23](http://reporoster.com/forks/dark/fardan23/fardan23)](https://github.com/fardan23/fardan23/network/members)
-</div>
 
 <p align="left">
   <a href="https://instagram.com/muhamadfardan11">
